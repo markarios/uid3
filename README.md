@@ -9,10 +9,12 @@ A simple slider built in d3js. You call the function in javascript by writing **
 
 Changes the color of the slider. The default color is white
 
-EXAMPLE
+**Slider Example**
+
+http://bl.ocks.org/markarios/be2d52c4c50a76d65278
 
 ![GitHub Logo](/images/slider.png)
-Format: ![Alt Text](url)
+
 
 ```
 <div id="slider01" style="width: 400px; height:120px"></div>
