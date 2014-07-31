@@ -1,4 +1,4 @@
 uid3
 ====
 
-basic interfaces built in d3js
+basic interface built in d3js
