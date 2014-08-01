@@ -51,10 +51,12 @@ function ui(selector){
 	
 
 		d3.select(selector)
+			.transition()
 			.style("border-style","solid")
 			.style("border-width",borderWidth + "px")
 			.style("border-radius",borderRadius + "px")
-			.style("border-color",color);
+			.style("border-color",color)
+			.style("float","left");
 
 		return instance;
 	};
